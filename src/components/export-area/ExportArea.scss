@@ -1,0 +1,31 @@
+.export-area{
+    width:100%;
+}
+h3{
+    margin-bottom: 8px;
+}
+textarea{
+    width:100%;
+    height:400px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    font-family: monospace;
+    font-size:14px;
+}
+button{
+    width:150px;
+    height:30px;
+    text-align: center;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    li:first-child{
+        margin-right: 30px;
+    }
+}
+.network-log{
+    color:#555;
+}

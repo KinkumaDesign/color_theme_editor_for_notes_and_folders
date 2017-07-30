@@ -1,0 +1,47 @@
+@import "./common/reset.scss";
+body{
+    padding:10px 20px 0 20px;
+    font-family: sans-serif;
+}
+#app{
+    width:1200px;
+    display: flex;
+    flex-direction: row;
+}
+.edit-area{
+    width:800px;
+}
+.switch-tab-menu{
+    width:100%;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 30px;
+
+    ul{
+        display: flex;
+        flex-direction: row;
+    }
+    li{
+        width:120px;
+        height:30px;
+        text-align: center;
+        padding-top: 5px;
+        box-sizing: border-box;
+        font-size:14px;
+        cursor: pointer;
+    }
+    li.current{
+        border-bottom: 4px solid #1d61dd;
+        cursor: default;
+    }
+}
+.theme-color-container{
+    display: flex;
+    flex-direction: row;
+}
+.content-color-container{
+    display: flex;
+    flex-direction: row;
+}
+.io-area{
+    width:330px;
+}

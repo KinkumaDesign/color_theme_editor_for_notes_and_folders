@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>content_directory_icon_tint</key>
+    <string>633828</string>
+    <key>content_note_icon_tint</key>
+    <string>7a7a7a</string>
+    <key>content_body_text</key>
+    <string>000000</string>
+    <key>content_sub_text</key>
+    <string>888888</string>
+    <key>content_background</key>
+    <string>fff8b6</string>
+    <key>content_text_cursor</key>
+    <string>007aff</string>
+    <key>content_keyboard_appearance</key>
+    <string>default</string>
+    <key>content_button_tint</key>
+    <string>872f17</string>
+    <key>list_table_view_cell_separator</key>
+    <string>cec597</string>
+    <key>list_table_view_cell_selected_background</key>
+    <string>ede49d</string>
+    <key>calendar_weekday_text</key>
+    <string>333333</string>
+    <key>calendar_saturday_text</key>
+    <string>4889D8</string>
+    <key>calendar_sunday_text</key>
+    <string>e25465</string>
+</dict>
+</plist>

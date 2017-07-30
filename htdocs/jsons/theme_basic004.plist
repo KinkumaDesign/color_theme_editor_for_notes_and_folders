@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>header_background</key>
+    <string>40a6d3</string>
+    <key>header_status_bar</key>
+    <string>white</string>
+    <key>header_title</key>
+    <string>ffffff</string>
+    <key>header_sub_text</key>
+    <string>ffffff</string>
+    <key>header_button_tint</key>
+    <string>ffffff</string>
+    <key>footer_toolbar_background</key>
+    <string>dfedf2</string>
+    <key>footer_toolbar_border</key>
+    <string>baccd6</string>
+    <key>footer_toolbar_button_tint</key>
+    <string>138ad3</string>
+    <key>global_menu_background</key>
+    <string>40a6d3</string>
+    <key>global_menu_button_current</key>
+    <string>ffffff</string>
+    <key>global_menu_button_normal</key>
+    <string>c5d5d6</string>
+    <key>global_menu_button_note</key>
+    <string>ffffff</string>
+</dict>
+</plist>
